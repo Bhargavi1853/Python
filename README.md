@@ -240,6 +240,17 @@ done()
 
 ---
 
+
+
+
+
+https://github.com/user-attachments/assets/a72939b6-9d39-4f2e-9a5f-5bc3246912d4
+
+
+
+
+---
+
 **How the code draws Ganesha (step-by-step):**
 
  1. Initialize the turtle window and set background color and pen size.
